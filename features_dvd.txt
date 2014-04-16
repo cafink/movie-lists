@@ -125,6 +125,7 @@ Eight Below
 Election
 Elizabethtown
 Emmet Otter's Jug-Band Christmas
+Encino Man
 Ernest Saves Christmas
 Ernest Rides Again
 Ernest Goes to School
@@ -162,7 +163,6 @@ Glory Road
 Go
 Go Fish
 Godsend
-Godzilla
 Golden Years
 Good Son, The
 Great Mouse Detective, The
@@ -304,6 +304,7 @@ Operation Dumbo Drop
 Orange County
 Orgazmo
 Outland
+Outsiders, The
 Panic Room
 Parent Trap, The
 Party Monster
