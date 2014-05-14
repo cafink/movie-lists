@@ -13,6 +13,8 @@
 (500) Days of Summer
 2001: A Space Odyssey
 A.I. Artificial Intelligence
+Ace Ventura: Pet Detective
+Ace Ventura: When Nature Calls
 Across the Universe
 Adjustment Bureau, The
 Adventures of Baron Munchausen, The
@@ -116,6 +118,7 @@ Bug's Life, A
 Bulletproof Monk
 Butterfly Effect, The
 Cabin in the Woods, The
+Cable Guy, The
 Caché (Hidden)
 Caddyshack
 Camp Nowhere
@@ -521,6 +524,7 @@ National Treasure
 National Treasure 2: Book of Secrets
 Natural Born Killers
 Naqoyqatsi [w/ Koyaanisqatsi]
+Nebraska
 Neverending Story, The
 Night at the Museum
 Night at the Museum: Battle of the Smithsonian

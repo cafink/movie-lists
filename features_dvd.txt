@@ -5,8 +5,6 @@
 Abre Los Ojos (Open Your Eyes)
 Abyss, The
 Accepted
-Ace Ventura: Pet Detective
-Ace Ventura: When Nature Calls
 Addams Family, The
 Addams Family Values
 Airborne
@@ -50,6 +48,7 @@ Better Luck Tomorrow
 Beverly Hills Cop
 Beverly Hills Cop II
 Beverly Hills Cop III
+Beverly Hills Ninja
 Big Chill, The
 Bill & Ted's Excellent Adventure
 Bill & Ted's Bogus Journey
