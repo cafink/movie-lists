@@ -82,6 +82,7 @@ Batman Begins
 Beasts of the Southern Wild
 Beautiful Mind, A
 Beauty and the Beast
+Bedazzled
 Beetlejuice
 Before the Devil Knows You're Dead
 Being John Malkovich
@@ -133,6 +134,7 @@ Cast Away
 Catch Me If You Can
 Cave of Forgotten Dreams
 Cell, The
+Chances Are
 Changing Lanes
 Charlie and the Chocolate Factory
 Chasing Amy
@@ -663,6 +665,7 @@ Scream
 Scream 2
 Scream 3
 Scream 4
+Sea of Love
 Seabiscuit
 Secret of NIMH, The
 Secretariat
@@ -714,7 +717,7 @@ Source Code
 South Park: Bigger, Longer & Uncut
 Space Jam
 Spaceballs
-Spawn [w/ Mortal Kombat]
+Spawn
 Speed
 Sphere
 Spider-Man
