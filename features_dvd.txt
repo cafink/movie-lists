@@ -50,6 +50,7 @@ Beverly Hills Cop
 Beverly Hills Cop II
 Beverly Hills Cop III
 Beverly Hills Ninja
+Big Bully
 Big Chill, The
 Bill & Ted's Excellent Adventure
 Bill & Ted's Bogus Journey
@@ -109,6 +110,7 @@ Dawn of the Dead (1978)
 Dawn of the Dead (2004)
 Dead Poets Society
 Descent, The
+Desperation
 Dirty Work
 Disclosure
 Dish, The
@@ -470,6 +472,7 @@ Wonderland
 Woodsman, The
 Wristcutters: A Love Story
 Wrong Guys, The [w/ Night Patrol]
+Young Einstein
 Youth Without Youth
 Zardoz
 Zodiac
