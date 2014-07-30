@@ -5,6 +5,7 @@
 12 Monkeys
 12 Years a Slave
 21 Jump Street
+25th Hour
 28 Days Later
 28 Weeks Later
 40-Year-Old Virgin, The
@@ -73,6 +74,7 @@ Back to the Future
 Back to the Future Part II
 Back to the Future Part III
 Backdraft
+Bad Santa
 Bambi
 Batman (1966)
 Batman (1989)
@@ -359,6 +361,7 @@ Harry Potter and the Half-Blood Prince
 Harry Potter and the Deathly Hallows Part 1
 Harry Potter and the Deathly Hallows Part 2
 Haute Tension (High Tension)
+He Got Game [w/ 25th Hour]
 Heat
 Heathers
 Heavyweights
@@ -429,6 +432,7 @@ Karate Kid Part II, The
 Kick-Ass
 Kill Bill Volume 1
 Kill Bill Volume 2
+Killer Joe
 Killer Klowns from Outer Space
 Kindergarten Cop
 King Kong
@@ -473,6 +477,7 @@ Looper
 Lord of the Rings: The Fellowship of the Ring, The
 Lord of the Rings: The Two Towers, The
 Lord of the Rings: The Return of the King, The
+Lord of War
 Lost Boys, The
 Lost in Space
 Lost in Translation
@@ -505,6 +510,7 @@ Million Dollar Baby
 Mimic
 Minority Report
 Miracle
+Miracle at St. Anna
 Mirrormask
 Mission: Impossible
 Mission: Impossible II
@@ -545,6 +551,7 @@ Night at the Museum: Battle of the Smithsonian
 Nightmare Before Christmas, The
 Ninth Gate, The
 No Country for Old Men
+Nochnoi Dozor (Night Watch)
 Now You See Me
 Nutty Professor, The
 Oblivion
@@ -687,6 +694,7 @@ Serious Man, A
 Sessions, The
 Seven
 Seven Pounds
+Shame
 Shaun of the Dead [w/ Hot Fuzz]
 Shawshank Redemption, The
 She's All That
@@ -695,6 +703,7 @@ Sherlock Holmes: A Game of Shadows
 Shining, The
 Short Circuit
 Short Circuit 2
+Showgirls
 Shrek
 Shrek 2
 Shrek the Third
@@ -752,6 +761,7 @@ Strangers, The
 Street Fighter
 Sucker Punch
 Sudden Impact [w/ The Dead Pool]
+Summer of Sam [w/ Miracle at St. Anna]
 Sunshine
 Sunshine Cleaning
 Super
