@@ -26,6 +26,8 @@ Adventures of Sharkboy and Lavagirl in 3-D, The
 After Earth
 Air Force One
 Airheads
+Airplane!
+Airplane II: The Sequel
 Akira
 Alice in Wonderland
 Alien
@@ -103,6 +105,7 @@ Big Trouble in Little China
 Bill & Ted's Excellent Adventure
 Black Sheep
 Black Swan
+Blade
 Blade Runner
 Blair Witch Project, The
 Blind Side, The
@@ -323,6 +326,7 @@ From Dusk till Dawn
 From Russia with Love
 Frost/Nixon
 Frozen
+Full Metal Jacket
 Funny Farm
 Galaxy Quest
 Game, The
@@ -501,6 +505,8 @@ Lost Boys, The
 Lost in Space
 Lost in Translation
 Machinist, The
+Mad Max 2: The Road Warrior
+Mad Max Beyond Thunderdome
 Magnolia
 Magnum Force [w/ The Dead Pool]
 Mallrats
@@ -595,6 +601,7 @@ Pacific Rim
 Paranormal Activity
 Paul
 Payback
+Peacemaker, The
 Pee-wee's Big Adventure
 People vs. Larry Flynt, The
 Perfect Murder, A
@@ -633,6 +640,7 @@ Princess Diaries, The
 Princess Diaries 2: Royal Engagement, The
 Project X
 Prometheus
+Public Enemies
 Pulp Fiction
 Puppet Masters, The [w/ Deep Rising]
 Quantum of Solace
@@ -792,6 +800,7 @@ Superbad
 Sweeney Todd: The Demon Barber of Fleet Street
 Sword in the Stone, The
 Swordfish
+Take Me Home Tonight
 Taken
 Taken 2
 Taking Lives
@@ -858,6 +867,7 @@ U-571
 Unbreakable
 Uncle Buck
 Unstoppable
+Untouchables, The
 Up
 Up in the Air
 Upside Down
@@ -880,6 +890,7 @@ Wayne's World
 Wayne's World 2
 Wedding Crashers
 Wedding Singer, The
+Weekend at Bernie's
 Weird Science
 What Dreams May Come
 When Harry Met Sally
