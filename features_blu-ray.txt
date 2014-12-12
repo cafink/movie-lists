@@ -51,6 +51,7 @@ American Pie
 American Pie 2
 American Psycho
 American Tail, An
+Amour
 Anaconda
 Analyze That
 Analyze This [w/ Analyze That]
@@ -231,6 +232,7 @@ Dirty Dancing
 Dirty Dancing: Havana Nights
 Dirty Harry [w/ The Dead Pool]
 District 9
+Disturbia
 Django Unchained
 Dodgeball
 Dog Soldiers
@@ -299,6 +301,7 @@ Few Good Men, A
 Field of Dreams
 Fifth Element, The
 Fight Club
+Fighter, The
 Final Destination
 Final Destination 2
 Final Destination 3
@@ -918,6 +921,7 @@ Winter's Bone
 Wolf of Wall Street, The
 World Is Not Enough, The
 World War Z
+World's End, The [w/ Hot Fuzz]
 Wreck-It Ralph
 Wrestler, The
 X-Men
