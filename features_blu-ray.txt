@@ -279,6 +279,7 @@ Evil Dead II
 Exorcist, The
 Expendables, The
 Expendables 2, The
+Expendables 3, The
 Extremely Loud & Incredibly Close
 Eyes Wide Shut
 Face/Off
@@ -401,6 +402,7 @@ Heathers
 Heavyweights
 Hellboy
 Hellboy II: The Golden Army
+Highlander
 History of Violence, A
 Hobbit: An Unexpected Journey, The
 Hobbit: The Desolation of Smaug, The
@@ -434,6 +436,7 @@ In the Cut
 Inception
 Incredible Hulk, The
 Incredibles, The
+Indecent Proposal
 Independence Day
 Indiana Jones and the Raiders of the Lost Ark
 Indiana Jones and the Temple of Doom
@@ -771,6 +774,7 @@ Sideways
 Signs
 Silence of the Lambs, The [w/ Hannibal]
 Silent Hill
+Silver Linings Playbook
 Simpsons Movie, The
 Sin City
 Sister Act
@@ -944,5 +948,6 @@ X-Men Origins: Wolverine
 X-Men: First Class
 You Only Live Twice
 You've Got Mail
+Zero Dark Thirty
 Zodiac
 Zombieland
