@@ -20,6 +20,7 @@ Ace Ventura: When Nature Calls
 Across the Universe
 Addams Family, The
 Adjustment Bureau, The
+Adventures in Babysitting
 Adventures of Baron Munchausen, The
 Adventures of Milo and Otis, The
 Adventures of Sharkboy and Lavagirl in 3-D, The
@@ -362,6 +363,7 @@ Good Will Hunting
 Goodfellas
 Goonies, The
 Gran Torino
+Grand Budapest Hotel, The
 Gravity
 Grease
 Great Debaters, The
@@ -518,6 +520,7 @@ Living Daylights, The
 Lola Rennt (Run Lola Run)
 Long Kiss Goodnight, The
 Looper
+Lord of the Rings, The
 Lord of the Rings: The Fellowship of the Ring, The
 Lord of the Rings: The Two Towers, The
 Lord of the Rings: The Return of the King, The
