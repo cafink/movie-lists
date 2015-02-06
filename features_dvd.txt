@@ -11,7 +11,6 @@ Adventures of Huck Finn, The
 Airborne
 Aladdin
 Ali
-All the President's Men
 Almost Famous
 American Psycho
 American Tail, An
@@ -33,6 +32,7 @@ Audition
 Babel
 Baby's Day Out
 Bad News Bears, The
+Bad Santa
 Bad Taste
 Ballistic: Ecks vs. Sever
 Basic Instinct
@@ -410,6 +410,7 @@ Temptations, The
 Terror of Tiny Town, The
 Teta y la Luna, La (The Tit and the Moon)
 Thank You for Smoking
+Thirteen
 Three Burials of Melquiades Estrada, The
 Three Men and a Baby
 Three Men and a Little Lady

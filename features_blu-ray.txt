@@ -39,6 +39,7 @@ Alien vs. Predator
 Aliens vs. Predator: Requiem
 All Dogs Go to Heaven
 All Is Lost
+All the President's Men
 All the Right Moves
 Almost Famous
 Altered States
@@ -78,6 +79,7 @@ Aviator, The
 Babe
 Babe: Pig in the City
 Babies
+Babylon A.D.
 Back to School
 Back to the Future
 Back to the Future Part II
@@ -91,6 +93,7 @@ Batman Returns
 Batman Forever
 Batman & Robin
 Batman Begins
+Be Kind Rewind
 Beasts of the Southern Wild
 Beautiful Mind, A
 Beauty and the Beast
@@ -359,6 +362,7 @@ Going the Distance
 Golden Compass, The
 Goldeneye
 Goldfinger
+Gone Girl
 Good Day to Die Hard, A
 Good Will Hunting
 Goodfellas
@@ -402,6 +406,7 @@ Heathers
 Heavyweights
 Hellboy
 Hellboy II: The Golden Army
+Her
 Highlander
 History of Violence, A
 Hobbit: An Unexpected Journey, The
@@ -623,6 +628,7 @@ One Day
 One Hour Photo
 Orfanato, El (The Orphanage)
 Others, The
+Out of Sight
 Outbreak
 Outland
 Outsiders, The
@@ -771,6 +777,7 @@ Shrek the Third
 Shrek Forever After
 Shutter Island
 Sideways
+Siege, The
 Signs
 Silence of the Lambs, The [w/ Hannibal]
 Silent Hill
@@ -831,6 +838,7 @@ Super
 Super 8
 Super Troopers
 Superbad
+Surrogates
 Sweeney Todd: The Demon Barber of Fleet Street
 Sword in the Stone, The
 Swordfish
@@ -840,6 +848,7 @@ Taken 2
 Taking Lives
 Tango & Cash
 Tarzan
+Ted
 Teen Wolf
 Teenage Mutant Ninja Turtles
 Teenage Mutant Ninja Turtles II: The Secret of the Ooze
@@ -904,6 +913,8 @@ U-571
 UHF
 Unbreakable
 Uncle Buck
+Under Siege
+Under Siege 2: Dark Territory
 Unstoppable
 Untouchables, The
 Up
