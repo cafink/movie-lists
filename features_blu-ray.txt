@@ -127,6 +127,7 @@ Boot, Das
 Bourne Identity, The
 Bourne Supremacy, The
 Bourne Ultimatum, The
+Box, The
 Brave
 Braveheart
 Breakfast Club, The
@@ -265,6 +266,7 @@ Easy A
 Edge of Tomorrow
 Education, An
 Edward Scissorhands
+Eight Below
 Elf
 Elysium
 Emperor's New Groove, The
@@ -850,6 +852,7 @@ Starship Troopers
 Stir of Echoes
 Strangers, The
 Street Fighter
+Stuck
 Sucker Punch
 Sudden Impact [w/ The Dead Pool]
 Summer of Sam [w/ Miracle at St. Anna]
@@ -895,6 +898,7 @@ This Is Spinal Tap
 Three Kings
 Throw Momma from the Train
 Thunderball
+Tim's Vermeer
 Time Bandits
 Time to Kill, A
 Titanic
