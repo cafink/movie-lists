@@ -110,6 +110,7 @@ Big Fish
 Big Lebowski, The
 Big Trouble in Little China
 Bill & Ted's Excellent Adventure
+Birdman or (The Unexpected Virtue of Ignorance)
 Black Sheep
 Black Swan
 Blade
@@ -346,6 +347,7 @@ Fountain, The
 Four Brothers
 Fox and the Hound, The
 Fox and the Hound II, The
+Foxcatcher
 Frailty
 Freaked
 Frequency
@@ -956,6 +958,7 @@ Up in the Air
 Upside Down
 Usual Suspects, The
 Vacation
+Vanilla Sky
 Vegas Vacation
 Vertical Limit
 Very Harold & Kumar 3D Christmas, A
