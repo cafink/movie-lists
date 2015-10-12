@@ -110,6 +110,7 @@ Big Fish
 Big Lebowski, The
 Big Trouble in Little China
 Bill & Ted's Excellent Adventure
+Bio-Dome
 Birdman or (The Unexpected Virtue of Ignorance)
 Black Sheep
 Black Swan
@@ -271,6 +272,7 @@ Edward Scissorhands
 Eight Below
 Elf
 Elysium
+Emerald Forest, The
 Emperor's New Groove, The
 End of Days
 Ender's Game
@@ -288,6 +290,7 @@ European Vacation
 Event Horizon
 Evil Dead, The
 Evil Dead II
+Ex Machina
 Exorcist, The
 Expendables, The
 Expendables 2, The
@@ -938,6 +941,7 @@ Tremors
 Tremors 2: Aftershocks
 Tremors 3: Back to Perfection
 Tremors 4: The Legend Begins
+Tremors 5: Bloodlines
 Trolljegeren (Trollhunter)
 Tromeo & Juliet
 Tron
