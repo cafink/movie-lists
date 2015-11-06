@@ -424,6 +424,7 @@ Heavyweights
 Hellboy
 Hellboy II: The Golden Army
 Her
+High Fidelity
 Highlander
 History of Violence, A
 Hobbit: An Unexpected Journey, The
@@ -475,6 +476,7 @@ Iron Man
 Ishtar
 Island, The
 Island of Dr. Moreau, The
+It Follows
 Italian Job, The
 Jackie Brown
 Jacob's Ladder
@@ -525,6 +527,7 @@ Laberinto del Fauno, El (Pan's Labyrinth)
 Labyrinth
 Lady and the Tramp
 Lady in the Water
+Lake House, The
 Lara Croft: Tomb Raider
 Lara Croft Tomb Raider: The Cradle of Life
 Larry Crowne
@@ -565,6 +568,7 @@ Machinist, The
 Mad Max
 Mad Max 2: The Road Warrior
 Mad Max Beyond Thunderdome
+Maggie
 Magnolia
 Magnum Force [w/ The Dead Pool]
 Mallrats
@@ -1008,6 +1012,7 @@ X2: X-Men United
 X-Men: The Last Stand
 X-Men Origins: Wolverine
 X-Men: First Class
+X-Men: Days of Future Past
 You Only Live Twice
 You've Got Mail
 Zero Dark Thirty
