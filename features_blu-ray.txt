@@ -1,6 +1,7 @@
 3:10 to Yuma
 6th Day, The
 10 Things I Hate About You
+10th Kingdom, The
 12 Angry Men
 12 Monkeys
 12 Years a Slave
@@ -195,6 +196,7 @@ Collateral
 Collateral Damage
 Commando
 Con Air
+Concussion
 Confessions of a Dangerous Mind
 Congo
 Conspiracy Theory
@@ -467,7 +469,6 @@ Inception
 Incredible Hulk, The
 Incredibles, The
 Indecent Proposal
-Independence Day
 Indiana Jones and the Raiders of the Lost Ark
 Indiana Jones and the Temple of Doom
 Indiana Jones and the Last Crusade
@@ -798,6 +799,7 @@ Seabiscuit
 Secret of NIMH, The
 Secretariat
 Secreto de Sus Ojos, El (The Secret in Their Eyes)
+Self/less
 Selma
 Serbuan Maut (The Raid: Redemption)
 Serenity
@@ -1010,6 +1012,7 @@ Who Framed Roger Rabbit
 Wild
 Willy Wonka and the Chocolate Factory
 Winter's Bone
+Witch, The
 Wolf of Wall Street, The
 Wolverine, The
 World Is Not Enough, The
