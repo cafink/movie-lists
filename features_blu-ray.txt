@@ -201,6 +201,7 @@ Con Air
 Concussion
 Confessions of a Dangerous Mind
 Congo
+Conjuring, The
 Conspiracy Theory
 Constantine
 Contact
@@ -482,6 +483,7 @@ Indiana Jones and the Last Crusade
 Indiana Jones and the Kingdom of the Crystal Skull
 Inglourious Basterds
 Innerspace
+Insidious
 Insomnia
 Interstellar
 Interview, The
@@ -613,6 +615,7 @@ Midnight in Paris
 Milk
 Million Dollar Baby
 Mimic
+Minions
 Minority Report
 Miracle
 Miracle at St. Anna
@@ -1000,6 +1003,7 @@ Vertical Limit
 Very Harold & Kumar 3D Christmas, A
 Videodrome
 View to a Kill, A
+Walk, The
 WALL-E
 Wall Street
 WarGames
