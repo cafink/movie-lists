@@ -16,6 +16,7 @@
 127 Hours
 (500) Days of Summer
 2001: A Space Odyssey
+10,000 BC
 A.I. Artificial Intelligence
 Ace Ventura: Pet Detective
 Ace Ventura: When Nature Calls
@@ -172,6 +173,7 @@ Cave of Forgotten Dreams
 Cell, The
 Cellular
 Chances Are
+Change-Up, The
 Changing Lanes
 Chaplin
 Charlie and the Chocolate Factory
@@ -230,6 +232,7 @@ Dark Crystal, The
 Dark Horse
 Dark Knight, The
 Dark Knight Rises, The
+Darkness
 Darkness Falls
 Dave
 Dawn of the Dead (1978)
@@ -291,6 +294,7 @@ Elysium
 Emerald Forest, The
 Emperor's New Groove, The
 End of Days
+End of Watch
 Ender's Game
 Enforcer, The [w/ The Dead Pool]
 Entrapment
@@ -420,6 +424,7 @@ Halloween
 Hancock
 Hangover, The
 Hangover Part II, The
+Hanna
 Hannibal
 Happy Feet
 Hard Candy
@@ -688,7 +693,8 @@ Ocean's Twelve
 Ocean's Thirteen
 Octopussy
 Office Space
-Oldboy
+Oldboy (2003)
+Oldboy (2013)
 Oliver and Company
 On Her Majesty's Secret Service
 One Day
@@ -739,6 +745,7 @@ Powaqqatsi [w/ Koyaanisqatsi]
 Predator
 Predator 2
 Predators
+Predestination
 Premium Rush
 Prestige, The
 Primal Fear
@@ -792,6 +799,7 @@ Rounders
 Rudy
 Rules of Attraction, The
 Running Man, The
+Running Scared
 Running with Scissors
 Safety Not Guaranteed
 Salinui Chueok (Memories of Murder)
@@ -1021,6 +1029,7 @@ View to a Kill, A
 Walk, The
 WALL-E
 Wall Street
+Wanted
 WarGames
 War Horse
 War of the Worlds
