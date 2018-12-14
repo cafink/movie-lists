@@ -205,6 +205,7 @@ Cloverfield
 Clue
 Clueless
 Cocktail
+Coco
 Cocoon
 Collateral
 Collateral Damage
@@ -497,6 +498,7 @@ Imitation Game, The
 In the Cut
 Inception
 Incredible Hulk, The
+Incredibles 2
 Indecent Proposal
 Independence Day: Resurgence
 Indiana Jones and the Raiders of the Lost Ark
@@ -920,6 +922,7 @@ Stand by Me
 Star Trek
 Star Trek Into Darkness
 Star Wars: Episode VII--The Force Awakens
+Star Wars: Episode VIII--The Last Jedi
 Stargate
 Starship Troopers
 Steve Jobs
@@ -975,6 +978,7 @@ Thirteenth Floor, The
 This Is Spinal Tap
 This Is the End
 Thor
+Thor: Ragnarok
 Three Kings
 Throw Momma from the Train
 Thunderball
