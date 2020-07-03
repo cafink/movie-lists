@@ -231,6 +231,7 @@ Cry-Baby
 Cube
 Cujo
 Curious Case of Benjamin Button, The
+Curse of the Fly, The [w/ The Fly (1958)]
 Dallas Buyers Club
 Dan in Real Life
 Dances with Wolves
@@ -367,7 +368,9 @@ Flatliners
 Flight
 Flight of the Navigator
 Flightplan
-Fly, The
+Fly, The (1958)
+Fly, The (1986)
+Fly II, The
 Fly Away Home
 Following
 Footloose
@@ -805,6 +808,7 @@ Resident Evil: Afterlife
 Resident Evil: Apocalypse
 Resident Evil: Extinction
 Resident Evil: Retribution
+Return of The Fly [w/ The Fly (1958)]
 Ring, The
 R.I.P.D.
 Rise of the Planet of the Apes
