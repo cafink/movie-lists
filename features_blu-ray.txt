@@ -417,7 +417,6 @@ Gone Girl
 Good Day to Die Hard, A
 Good Will Hunting
 Goodfellas
-Goonies, The
 Graduate, The
 Gran Torino
 Grand Budapest Hotel, The
@@ -602,6 +601,7 @@ Licence to Kill
 Life During Wartime
 Life of Pi
 Life with Mikey [w/ Father Hood]
+Lighthouse, The
 Lights Out
 Lilo & Stitch
 Lilo & Stitch 2: Stitch Has a Glitch
@@ -710,6 +710,7 @@ Nebraska
 Neverending Story, The
 Night at the Museum
 Night at the Museum: Battle of the Smithsonian
+Night of the Living Dead
 Nightcrawler
 Nightmare Before Christmas, The
 Ninth Gate, The
@@ -971,6 +972,7 @@ Take Me Home Tonight
 Taken
 Taken 2
 Taking Lives
+Tales from the Darkside: The Movie
 Tango & Cash
 Tarzan
 Team America: World Police
