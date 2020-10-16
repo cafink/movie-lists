@@ -4,9 +4,12 @@ Aladdin
 Annihilation
 Apollo 13
 Avengers: Infinity War
+Batman Begins
 Beautiful Day in the Neighborhood, A
 Cold Pursuit
 Creed
+Dark Knight, The [w/ Batman Begins]
+Dark Knight Rises, The [w/ Batman Begins]
 Deadpool
 Deadpool 2
 Finding Dory
@@ -31,6 +34,9 @@ La La Land
 Labyrinth
 Lion King, The
 Logan
+Matrix, The
+Matrix Reloaded, The
+Matrix Revolutions, The
 Quiet Place, A
 Shining, The
 Solo: A Star Wars Story
