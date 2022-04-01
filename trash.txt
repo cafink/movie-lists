@@ -63,6 +63,7 @@ Boogie Nights
 Bourne Identity, The
 Bourne Supremacy, The
 Bourne Ultimatum, The
+Brewster's Millions
 Bridge to Terabithia
 Brokeback Mountain
 Buffalo '66
@@ -86,6 +87,7 @@ Chipmunk Adventure, The
 Chronicles of Narnia: The Lion, The Witch and the Wardrobe, The
 Cinderella Man
 City of Angels
+City Slickers II: The Legend of Curly's Gold
 Clerks
 Clerks II
 Clifford
@@ -143,6 +145,7 @@ Event Horizon
 Evil Dead, The
 Evil Dead II
 Exorcist, The
+Explorers
 Eyes Wide Shut
 Face/Off
 Faculty, The
@@ -282,6 +285,7 @@ Machinist, The
 Magnolia
 Man with the Golden Gun, The
 Manhunter
+Matinee
 Matrix, The
 Matrix Reloaded, The
 Matrix Revolutions, The
@@ -324,6 +328,7 @@ Nightmare Before Christmas, The
 Nightmare on Elm Street, A
 Ninth Gate, The
 No Country for Old Men
+Nothing but Trouble
 Ocean's Eleven
 Ocean's Twelve
 Ocean's Thirteen
@@ -470,6 +475,7 @@ Christmas Vacation
 Vanilla Sky
 Vegas Vacation
 Vertical Limit
+Very Bad Things
 View to a Kill, A
 Wall Street
 War of the Worlds

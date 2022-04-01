@@ -150,6 +150,7 @@ Boyhood
 Brave
 Braveheart
 Breakfast Club, The
+Brewster's Millions
 Bridge to Terabithia
 Brokeback Mountain
 Broken Arrow
@@ -196,6 +197,7 @@ Cinderella
 Cinderella Man
 City of Angels
 City Slickers
+City Slickers II: The Legend of Curly's Gold
 Clerks [w/ Chasing Amy]
 Clerks II
 Clifford
@@ -324,6 +326,7 @@ Exorcist, The
 Expendables, The
 Expendables 2, The
 Expendables 3, The
+Explorers
 Extremely Loud & Incredibly Close
 Eyes Wide Shut
 Face/Off
@@ -657,6 +660,7 @@ Mary and Max
 Master, The
 Master and Commander: The Far Side of the World
 Matilda
+Matinee
 Matrix, The
 Matrix Reloaded, The
 Matrix Revolutions, The
@@ -701,6 +705,7 @@ Moonraker
 Mortal Kombat (1995)
 Mortal Kombat: Annihilation
 Mothman Prophecies, The
+Mr. Mom
 Mrs. Doubtfire
 Mulan
 Mulan II
@@ -738,6 +743,7 @@ Nightmare on Elm Street, A (2010)
 Ninth Gate, The
 No Country for Old Men
 Nochnoi Dozor (Night Watch)
+Nothing but Trouble
 Now You See Me
 Nutty Professor, The
 Oblivion
@@ -783,6 +789,7 @@ Pirates of the Caribbean: Dead Man's Chest
 Pirates of the Caribbean: At World's End
 Pirates of the Caribbean: On Stranger Tides
 Pitch Black [w/ The Chronicles of Riddick]
+Plague Dogs, The
 Planes, Trains and Automobiles
 Planet of the Apes (1968)
 Planet of the Apes (2001)
@@ -1077,6 +1084,7 @@ True Romance
 Truman Show, The
 Tusk
 Twin Peaks: Fire Walk with Me [w/ Twin Peaks]
+Twins
 Twister
 U-571
 UHF
@@ -1094,6 +1102,7 @@ Vacation
 Vanilla Sky
 Vegas Vacation
 Vertical Limit
+Very Bad Things
 Very Harold & Kumar 3D Christmas, A
 Videodrome
 View to a Kill, A
