@@ -51,12 +51,14 @@ Altered States
 Alvin and the Chipmunks
 Alvin and the Chipmunks: The Squeakquel
 Amazing Spider-Man, The
+Amazing Spider-Man 2, The
 American Beauty
 American History X
 American Hustle
 American Pie
 American Pie 2
 American Psycho
+American Sniper
 American Tail, An
 Amistad
 Amour
@@ -64,6 +66,7 @@ Anaconda
 Analyze That
 Analyze This [w/ Analyze That]
 Anchorman: The Legend of Ron Burgundy
+Apocalypse Now
 Apocalypto
 Apollo 18
 Arachnophobia
@@ -80,6 +83,7 @@ Austin Powers: International Man of Mystery
 Austin Powers: The Spy Who Shagged Me
 Austin Powers in Goldmember
 Avatar
+Avengers: Age of Ultron
 Avengers: Infinity War
 Aviator, The
 Babadook, The
@@ -157,6 +161,7 @@ Brokeback Mountain
 Broken Arrow
 Brother Bear
 Brother Bear 2
+Brothers Grimm
 Buffalo '66
 Bug's Life, A
 Bulletproof Monk
@@ -168,6 +173,7 @@ Caché (Hidden)
 Caddyshack
 Camp Nowhere
 Can't Hardly Wait
+Captain America: The Winter Soldier
 Captain Phillips
 Carlito's Way
 Cars
@@ -240,6 +246,7 @@ Dan in Real Life
 Dances with Wolves
 Dark City
 Dark Horse
+Dark Skies
 Darkness
 Darkness Falls
 Dave
@@ -248,6 +255,7 @@ Dawn of the Dead (2004)
 Day of the Dead
 Day the Earth Stood Still, The (1951)
 Day the Earth Stood Still, The (2008)
+Daybreakers
 Days of Thunder
 Dead Man Walking
 Dead Poets Society
@@ -277,10 +285,12 @@ Dirty Dancing: Havana Nights
 Dirty Harry [w/ The Dead Pool]
 District 9
 Disturbia
+Divergent Series: Insurgent, The
 Django Unchained
 Dodgeball
 Dog Soldiers
 Dogma
+Don Jon
 Donnie Darko
 Dr. No
 Dream Team, The
@@ -310,6 +320,7 @@ End of Watch
 Ender's Game
 Enforcer, The [w/ The Dead Pool]
 Entrapment
+Equalizer, The
 Equilibrium
 Eraser
 Ernest Goes to Camp
@@ -366,6 +377,7 @@ Final Destination 5
 Finding Dory
 Finding Nemo
 Finding Neverland
+Firestarter
 Firewall
 Firm, The
 First Blood
@@ -414,12 +426,15 @@ Frost/Nixon
 Frozen
 Full Metal Jacket
 Funny Farm
+Fury
 Galaxy Quest
 Game, The
 Gangs of New York
 Garden State
 Gattaca
 Ghost
+G.I. Joe: The Rise of Cobra
+G.I. Joe: Retaliation
 Gladiator
 Go
 God Bless America
@@ -440,6 +455,7 @@ Grand Budapest Hotel, The
 Gravity
 Grease
 Great Debaters, The
+Great Gatsby, The
 Great Mouse Detective, The
 Great Outdoors, The
 Green Hornet, The
@@ -457,6 +473,7 @@ Halloween
 Hancock
 Hangover, The
 Hangover Part II, The
+Hangover Part III, The
 Hanna
 Hannibal
 Happy Feet
@@ -488,6 +505,7 @@ Highlander
 History of Violence, A
 Hobbit: An Unexpected Journey, The
 Hobbit: The Desolation of Smaug, The
+Hobbit: The Battle of the Five Armies, The
 Hocus Pocus
 Hollow Man
 Hollywood Homicide
@@ -537,18 +555,21 @@ Inherit the Wind (1960)
 Inherit the Wind (1999)
 Innerspace
 Insidious
+Insidious: Chapter 2
 Insomnia
 Interstellar
 Interview, The
 Interview with the Vampire
 Iron Giant, The
 Iron Man
+Iron Man 3
 Ishtar
 Island, The
 Island of Dr. Moreau, The
 Isle of Dogs
 It Follows
 Italian Job, The
+Jack Reacher
 Jackie Brown
 Jacob's Ladder
 James and the Giant Peach
@@ -645,6 +666,7 @@ Lost in Space
 Lost in Translation
 Love & Mercy
 Loving
+Lucy
 Machinist, The
 Mad Max
 Mad Max 2: The Road Warrior
@@ -667,6 +689,8 @@ Matinee
 Matrix, The
 Matrix Reloaded, The
 Matrix Revolutions, The
+Maze Runner, The
+Maze Runner: The Scorch Trials
 Mean Girls
 Meet Joe Black
 Meet the Parents
@@ -754,6 +778,7 @@ Ocean's Eleven
 Ocean's Twelve
 Ocean's Thirteen
 Octopussy
+Oculus
 Office Space
 Oldboy (2003)
 Oldboy (2013)
@@ -774,6 +799,7 @@ Paranormal Activity
 Paul
 Payback
 Peacemaker, The
+Pearl Harbor
 Pee-wee's Big Adventure
 People vs. Larry Flynt, The
 Perfect Murder, A
@@ -831,6 +857,7 @@ Raising Arizona
 Rambo
 Rambo: First Blood Part II
 Rambo III [w/ Rambo: First Blood Part II]
+Rango
 Ratatouille
 Reader, The
 Reality Bites
@@ -853,6 +880,7 @@ Resident Evil: The Final Chapter
 Return of The Fly [w/ The Fly (1958)]
 Return of the Living Dead, The
 Ring, The
+Rio
 R.I.P.D.
 Rise of the Planet of the Apes
 Risky Business
@@ -985,6 +1013,7 @@ Star Wars: Episode VII--The Force Awakens
 Star Wars: Episode VIII--The Last Jedi
 Stargate
 Starship Troopers
+Step Brothers
 Steve Jobs
 Stir of Echoes
 Strangers, The
@@ -1041,6 +1070,7 @@ Thirteenth Floor, The
 This Is Spinal Tap
 This Is the End
 Thor
+Thor: The Dark World
 Thor: Ragnarok
 Three Kings
 Throw Momma from the Train
@@ -1086,6 +1116,9 @@ True Grit
 True Romance
 Truman Show, The
 Tusk
+Twilight Saga: New Moon, The
+Twilight Saga: Eclipse, The
+Twilight Saga: Breaking Dawn--Part 2, The
 Twin Peaks: Fire Walk with Me [w/ Twin Peaks]
 Twins
 Twister
