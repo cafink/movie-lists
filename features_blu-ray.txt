@@ -181,6 +181,7 @@ Cars 2
 Casino Royale
 Cast Away
 Catch Me If You Can
+Cats & Dogs: The Revenge of Kitty Galore
 Cave of Forgotten Dreams
 Cell, The
 Cellular
@@ -205,6 +206,7 @@ Cinderella Man
 City of Angels
 City Slickers
 City Slickers II: The Legend of Curly's Gold
+Clash of the Titans
 Clerks [w/ Chasing Amy]
 Clerks II
 Clifford
@@ -627,6 +629,7 @@ Lara Croft: Tomb Raider
 Lara Croft Tomb Raider: The Cradle of Life
 Larry Crowne
 Last Action Hero
+Last Airbender, The
 Last Starfighter, The
 Last Unicorn, The
 Law Abiding Citizen
@@ -1098,6 +1101,8 @@ Training Day
 Trainspotting
 Trance
 Transcendence
+Transformers: Dark of the Moon
+Transformers: Age of Extinction
 Transporter, The
 Transporter 2
 Trapped [w/ In the Cut]
