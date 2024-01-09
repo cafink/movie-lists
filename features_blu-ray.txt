@@ -172,7 +172,7 @@ Bulletproof Monk
 Butterfly Effect, The
 Cabin in the Woods, The
 Cable Guy, The
-Caché (Hidden)
+Caché
 Caddyshack
 Camp Nowhere
 Can't Hardly Wait
@@ -356,6 +356,7 @@ Falling Down
 Family Man, The
 Fantasia
 Fantasia 2000
+Fantastic Planet
 Fargo
 Fast and the Furious, The
 2 Fast 2 Furious
@@ -439,6 +440,7 @@ Gangs of New York
 Garden State
 Gattaca
 Ghost
+Ghost in the Shell
 G.I. Joe: The Rise of Cobra
 G.I. Joe: Retaliation
 Gladiator
@@ -458,6 +460,7 @@ Goodfellas
 Graduate, The
 Gran Torino
 Grand Budapest Hotel, The
+Grave of the Fireflies
 Gravity
 Grease
 Great Debaters, The
@@ -495,7 +498,6 @@ Harry Potter and the Half-Blood Prince
 Harry Potter and the Deathly Hallows Part 1
 Harry Potter and the Deathly Hallows Part 2
 Hateful Eight, The
-Haute Tension (High Tension)
 He Got Game [w/ 25th Hour]
 Heart and Souls
 Heat
@@ -513,6 +515,7 @@ Hellraiser: Hellworld
 Hellraiser: Inferno
 Her
 High Fidelity
+High Tension
 Highlander
 History of Violence, A
 Hobbit: An Unexpected Journey, The
@@ -530,7 +533,6 @@ Hostel
 Hostel Part II
 Hot Fuzz
 Hot Tub Time Machine
-Hotaru no Haka (Grave of the Fireflies)
 House of 1000 Corpses [w/ 3 from Hell]
 House of Wax
 How to Train Your Dragon
@@ -611,7 +613,6 @@ Kill Bill Volume 1
 Kill Bill Volume 2
 Killer Joe
 Killer Klowns from Outer Space
-Kimi no Na wa (Your  Name)
 Kindergarten Cop
 King Kong
 King's Speech, The
@@ -623,12 +624,10 @@ Kissing Jessica Stein
 Knight's Tale, A
 Knocked Up
 Knowing
-Kôkaku Kidôtai (Ghost in the Shell)
 Kong: Skull Island
 Koyaanisqatsi
 Kronk's New Groove [w/ The Emperor's New Groove]
 L.A. Confidential
-Laberinto del Fauno, El (Pan's Labyrinth)
 Lady and the Tramp
 Lady in the Water
 Lake House, The
@@ -665,7 +664,6 @@ Little Shop of Horrors
 Live and Let Die
 Live Free or Die Hard [w/ Die Hard]
 Living Daylights, The
-Lola Rennt (Run Lola Run)
 Long Kiss Goodnight, The
 Looper
 Lord of the Rings, The
@@ -707,6 +705,7 @@ Mean Girls
 Meet Joe Black
 Meet the Parents
 Memento
+Memories of Murder
 Men in Black
 Men in Black II
 Men in Black 3
@@ -771,6 +770,7 @@ Neverending Story, The
 Night at the Museum
 Night at the Museum: Battle of the Smithsonian
 Night of the Living Dead
+Night Watch
 Nightcrawler
 Nightmare Before Christmas, The
 Nightmare on Elm Street, A (1984)
@@ -781,7 +781,6 @@ Nightmare on Elm Street 5: The Dream Child, A
 Nightmare on Elm Street, A (2010)
 Ninth Gate, The
 No Country for Old Men
-Nochnoi Dozor (Night Watch)
 Nothing but Trouble
 Now You See Me
 Nutty Professor, The
@@ -798,7 +797,7 @@ Oliver and Company
 On Her Majesty's Secret Service
 One Day
 One Hour Photo
-Orfanato, El (The Orphanage)
+The Orphanage
 Others, The
 Out of Sight
 Outbreak
@@ -807,6 +806,7 @@ Outsiders, The
 Overboard
 Pacific Rim
 Pagemaster, The
+Pan's Labyrinth
 Paranormal Activity
 Paul
 Payback
@@ -822,7 +822,6 @@ Phenomenon
 Philadelphia
 Philomena
 Phone Booth
-Piel que Habito, La (The Skin I Live In)
 Pinocchio
 Piranha
 Pirates! Band of Misfits, The
@@ -836,7 +835,6 @@ Planes, Trains and Automobiles
 Planet of the Apes (1968)
 Planet of the Apes (2001)
 Planet Terror
-Planète Sauvage, La (Fantastic Planet)
 Platoon
 Pleasantville
 Pocahontas
@@ -863,6 +861,7 @@ Pulp Fiction
 Puppet Masters, The [w/ Deep Rising]
 Quantum of Solace
 Raging Bull
+The Raid: Redemption
 Rain Man
 Raising Arizona
 Rambo
@@ -907,11 +906,11 @@ Room, The
 Rounders
 Rudy
 Rules of Attraction, The
+Run Lola Run
 Running Man, The
 Running Scared
 Running with Scissors
 Safety Not Guaranteed
-Salinui Chueok (Memories of Murder)
 Sandlot, The
 Santa Clause, The
 Santa Clause 2, The
@@ -938,12 +937,11 @@ Scream 3
 Scream 4
 Sea of Love
 Seabiscuit
+Secret in Their Eyes, The
 Secret of NIMH, The
 Secretariat
-Secreto de Sus Ojos, El (The Secret in Their Eyes)
 Self/less
 Selma
-Serbuan Maut (The Raid: Redemption)
 Serial Mom
 Serious Man, A
 Sessions, The
@@ -977,6 +975,7 @@ Sister Act
 Sister Act 2: Back in the Habit
 Sixteen Candles
 Sixth Sense, The
+The Skin I Live In
 Sky Captain and the World of Tomorrow
 Skyfall
 Sleepers
@@ -1118,7 +1117,7 @@ Tremors 3: Back to Perfection
 Tremors 4: The Legend Begins
 Tremors 5: Bloodlines
 Trick 'r Treat
-Trolljegeren (Trollhunter)
+Trollhunter
 Tromeo & Juliet
 Tron
 Tron: Legacy
@@ -1197,6 +1196,7 @@ X-Men: Days of Future Past
 X-Men: Apocalypse
 You Only Live Twice
 You've Got Mail
+Your Name
 Zero Dark Thirty
 Zodiac
 Zombieland

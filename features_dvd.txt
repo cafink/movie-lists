@@ -1,5 +1,6 @@
+3-Iron
 10th Kingdom, The
-18 Ans Après (18 Years Later)
+18 Years Later
 3000 Miles to Graceland
 Abre Los Ojos (Open Your Eyes)
 Abyss, The
@@ -51,7 +52,6 @@ Beverly Hills Ninja
 Beyond the Sea
 Big Bully
 Big Top Pee-wee
-Bin-jip (3-Iron)
 Black Cauldron, The
 Blank Check
 Blankman
@@ -180,6 +180,7 @@ Houseguest
 I Am Sam
 Identity
 Idiocracy
+I'm Not Scared
 In & Out
 In Dreams
 In Good Company
@@ -188,13 +189,11 @@ Indian in the Cupboard, The
 Inspector Gadget
 Intensity
 Interview
-Io non ho paura (I'm Not Scared)
 I.Q.
 Irreversible
 It's Pat
 Jacket, The
 Jamón, Jamón
-Jeux d'enfants (Love Me if You Dare)
 Joe Versus the Volcano
 Johnny Got His Gun
 Junebug
@@ -211,7 +210,6 @@ Kindergarten Cop [w/ Junior]
 King Ralph [w/ For Richer or Poorer]
 Knight's Tale, A
 Krampus
-Ladrón Que Roba a Ladrón (To Rob a Thief)
 Ladykillers, The
 Lake Placid
 Langoliers, The
@@ -229,6 +227,7 @@ Look Who's Talking
 Look Who's Talking Too
 Lord of the Flies
 Lost Highway
+Love Me if You Dare
 Man of the House
 Man on the Moon
 Man Without a Face, The
@@ -246,7 +245,6 @@ Milk Money
 Millions
 Mission to Mars
 Moll Flanders
-Mononoke-hime (Princess Mononoke)
 Monster in the Closet
 Moonlight Mile
 Mr. Deeds
@@ -265,8 +263,8 @@ The Naked Gun 33 1/3: The Final Insult
 Net, The
 Never Say Never Again
 Night Patrol
+Nine Queens
 Now and Then
-Nueve Reinas (Nine Queens)
 October Sky
 Once
 One Flew Over the Cuckoo's Nest
@@ -301,6 +299,7 @@ Powder
 Pretty in Pink
 Pretty Woman
 Primer [dad]
+Princess Mononoke
 Private Parts
 Problem Child
 Problem Child 2
@@ -397,10 +396,12 @@ Thin Red Line, The
 Thirteen
 Three Burials of Melquiades Estrada, The
 Three Men and a Baby
+Three Men and a Cradle
 Three Men and a Little Lady
 Threesome
 Tideland
 Titan A.E.
+To Rob a Thief
 Tommyknockers, The
 Toxic Avenger, The
 Toxic Avenger Part II, The
@@ -408,7 +409,6 @@ Toxic Avenger Part III: The Last Temptation of Toxie, The
 Citizen Toxie: The Toxic Avenger IV
 Toys
 Trial and Error
-Trois Hommes et un Couffin (Three Men and a Cradle)
 True Lies
 Truth About Cats & Dogs, The
 Turner & Hooch
