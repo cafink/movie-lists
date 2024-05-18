@@ -509,9 +509,11 @@ Hellraiser
 Hellbound: Hellraiser II
 Hellraiser III: Hell on Earth
 Hellraiser: Bloodline
+Hellraiser: Inferno
 Hellraiser: Hellseeker
 Hellraiser: Hellworld
-Hellraiser: Inferno
+Hellraiser: Revelations
+Hellraiser: Judgment
 Her
 High Fidelity
 High Tension
