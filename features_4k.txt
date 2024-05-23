@@ -5,6 +5,7 @@ Ad Astra
 Aladdin
 Annihilation
 Apollo 13
+Army of Darkness
 Avengers: Infinity War
 Barbie
 Batman (1989)
@@ -14,6 +15,7 @@ Batman & Robin
 Batman Begins
 Batman, The
 Beautiful Day in the Neighborhood, A
+Bill & Ted's Excellent Adventure
 Christmas Vacation
 Cold Pursuit
 Color Out of Space
@@ -43,6 +45,7 @@ Goonies, The
 Green Mile, The
 Groundhog Day
 Guardians of the Galaxy Vol. 2
+Hackers
 Hereditary
 Incredibles, The
 Incredibles 2
@@ -71,6 +74,7 @@ Matrix Reloaded, The
 Matrix Revolutions, The
 Matrix Resurrections, The
 Mortal Kombat (2021)
+My Bloody Valentine
 Natural Born Killers
 Nightmare Before Christmas, The
 Nope
